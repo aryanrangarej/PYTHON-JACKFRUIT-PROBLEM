@@ -1,5 +1,6 @@
 # PYTHON-JACKFRUIT-PROBLEM
 LOGICAL PUZZLES AND MATH TOOLS #SUDOKU GAME
+
 <img width="496" height="536" alt="image" src="https://github.com/user-attachments/assets/add82d00-af35-4cb9-8a0f-b4914057911d" />
 <img width="696" height="587" alt="image" src="https://github.com/user-attachments/assets/ff982f41-ea4e-4617-bd95-4cff2e16f76f" />
 <img width="704" height="594" alt="image" src="https://github.com/user-attachments/assets/e97ca89c-00aa-4057-b4eb-59e7ecccd507" />
